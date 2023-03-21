@@ -1,12 +1,14 @@
 # KEGG db
 
 This repository hosts KEGG pathways and the conversion between NCBI gene id and KEGG gene id for various organisms.
-*Currently supported organisms:*
+
+**Currently supported organisms:**
 - hsa
 - rno
 - mmu
 
-*Last update*
+**Last update**
+
 2023-03-21
 
 ## File description
