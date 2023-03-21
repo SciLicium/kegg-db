@@ -16,7 +16,7 @@ This repository hosts KEGG pathways and the conversion between NCBI gene id and 
     - the date/time at which the data were retrieved from KEGG
     - the list of organisms stored in the database
     - a conversion table between NCBI `geneid`s and KEGG gene ids.
-2. `KEGG.db_1.0.tar.gz` is an R package, to be used with `clusterProfiler`. It contains the mapping between KEGG gene ids and KEGG pathways.
+2. `KEGG.db_1.0.tar.gz` is an R package, to be used with `clusterProfiler`. It contains the mapping between KEGG gene ids and KEGG pathways, and was created using https://github.com/YuLab-SMU/createKEGGdb.
 
 
 ## Installation of the custom KEGG db
