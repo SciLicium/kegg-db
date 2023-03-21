@@ -1,3 +1,14 @@
+# KEGG db
+
+This repository hosts KEGG pathways and the conversion between NCBI gene id and KEGG gene id for various organisms.
+*Currently supported organisms:*
+- hsa
+- rno
+- mmu
+
+*Last update*
+2023-03-21
+
 ## File description
 1. `kegg_ncbi-geneid_conversion.json` contains:
     - the date/time at which the data were retrieved from KEGG
