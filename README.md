@@ -6,10 +6,13 @@ This repository hosts KEGG pathways and the conversion between NCBI gene id and 
 - hsa
 - rno
 - mmu
+- dre
+- ssc
+- ola
 
 **Last update**
 
-2023-03-21
+2024-09-12
 
 ## File description
 1. `kegg_ncbi-geneid_conversion.json` contains:
